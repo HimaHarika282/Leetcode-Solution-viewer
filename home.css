@@ -9,23 +9,20 @@ body {
     text-align: center;  
     padding: 20px;
 }
-a{
-   color:red;
-}
 h1 {
-    color: white;
+    color: rgb(255, 0, 0);
     font-size: 2.5em;
     margin-bottom: 10px;
 }
 
 h2 {
-    color: white;
+    color: rgb(22, 21, 21);
     font-size: 1.5em;
     margin-top: 0;
 }
 
 a {
-    color: #00aced;
+    color: #460473;
     text-decoration: none;
     font-weight: bold;
 }
