@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="icon" href="data:,">
+   <title>LEETCODE PS</title>
+   <link rel="stylesheet" href="styles.css">
+   <script src="https://code.jquery.com/jquery-3.7.1.min.js" 
+           integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" 
+           crossorigin="anonymous">
+   </script>
+   <script src="https://code.jquery.com/ui/1.14.1/jquery-ui.min.js" 
+           integrity="sha256-AlTido85uXPlSyyaZNsjJXeCs07eSv3r43kyCVc8ChI=" 
+           crossorigin="anonymous">
+   </script>
+</head>
+
+<body>
+    <div class="header">
+       <h1>Solution Viewer</h1>
+       <p>Enter the question number or name in the input box to get your solution.</p>
+    </div>
+
+   
+    <div class="languageselection">
+      <label for="languageSelect">Select Language:</label>
+      <select id="languageSelect">
+        <option value="cpp">Cpp</option>
+        <option value="python">Python</option>
+        <option value="java">Java</option>
+        <option value="go">Go</option>
+      </select>
+    </div>
+
+    <main>
+       <div class="searchbar">
+            <input type="text" id="searchinput" placeholder="Enter your problem...">
+            <button id="searchbutton">🔍search</button>
+       </div>
+       <section id="problemsection">
+            <h2 id="problemtitle"></h2>
+            <pre id="problemdescription"></pre>
+            <div id="solutioncontainer"></div>
+       </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

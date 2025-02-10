@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    margin: 0 auto;
+    max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: #333;
+    padding: 1em;
+    text-align: center;
+    color: #fff;
+}
+
+p {
+    margin-left: 20px;
+    color: white;
+}
+
+.searchbar {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap; 
+}
+
+.languageselection {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+#searchinput {
+    width: 50%;
+    padding: 10px;
+    font-size: 20px;
+    border: 3px solid gray;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+#searchbutton {
+    padding: 10px;
+    font-size: 20px;
+    background-color: powderblue;
+    color: black;
+    border: 2px solid grey;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 100px;
+}
+
+#languageSelect {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: white;
+    color: black;
+}
+
+#problemsection {
+    color: #fff;
+    margin-top: 1em;
+    text-align: center;
+}
+
+#problemtitle {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#problemdescription {
+    white-space: pre-wrap;
+}
+
+#solutioncontainer {
+    margin-top: 1em;
+}
