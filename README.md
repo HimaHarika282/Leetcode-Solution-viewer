@@ -15,6 +15,11 @@ TECH STACKS:
    Javascript:For handling user-interactions and logics(script.js)
    JQuery:For DOM manipulation and user interface enhancements.
    JQuery UI:Adds interactive UI elements.
+   GitHub API: Used to fetch data from GitHub repositories.
+   Fetch API: Used for making HTTP requests to the GitHub API.
+   Base64: Used for decoding the content of the GitHub repository files.
+   JSON: Used for data exchange between the client and server.
+   GitHub OAuth: Used for authentication and authorization with the GitHub API.
 
 HOW TO USE THE WEB APPLICATION:
     1.To have a good web page experience open the `home.html` file in a web browser.
