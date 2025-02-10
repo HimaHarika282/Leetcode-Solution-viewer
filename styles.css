@@ -1,20 +1,20 @@
 body {
-    background-color: black;
+    background-color: rgb(24, 109, 184);
     margin: 0 auto;
     max-width: 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    background-color: #333;
+    background-color: #b80840;
     padding: 1em;
     text-align: center;
     color: #fff;
 }
 
 p {
-    margin-left: 20px;
-    color: white;
+    margin-left: 30px;
+    color: rgb(14, 7, 7);
 }
 
 .searchbar {
@@ -55,17 +55,18 @@ p {
     font-size: 16px;
     border-radius: 5px;
     margin-left: 10px;
-    background-color: white;
-    color: black;
+    background-color: red;
+    color: rgb(0,0,0,);
 }
 
 #problemsection {
-    color: #fff;
+    color: rgb(249, 240, 240);
     margin-top: 1em;
     text-align: center;
 }
 
 #problemtitle {
+    color:rgb(64, 255, 0);
     font-weight: bold;
     font-size: 1.5em;
 }
