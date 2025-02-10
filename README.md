@@ -26,7 +26,7 @@ HOW TO USE THE WEB APPLICATION:
 
 SET UP AND INSTALLATION :
   1.Clone this repository to your local machine:
-    git clone https://github.com/HimaHarika282/Leetcode-Solution-viewer/edit/main/README.md
+    git clone https://github.com/HimaHarika282/Leetcode-Solution-viewer
   2.Open `home.html` or `index.html` in any web browser.
   3.Ensure you have proper internet access for the juery and jQuery UI libraries to load properly.
 
