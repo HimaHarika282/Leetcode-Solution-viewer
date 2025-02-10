@@ -2,7 +2,7 @@
 This web page provides you the solution for leetcodeproblem when you enter the question name/id
 
 
-This is asimple web application to view solutions for LeetCode problems.This web page allows users to search solution for a problem by entering its number or name.Users can select the programming language of their choice,and the corresponding solution is viewed if available in the leetcode repository.
+This is a simple web application to view solutions for LeetCode problems. This web page allows users to search solution for a problem by entering its Number/ID or Name. Users can select the programming language of their choice,and the corresponding solution is viewed if available in the leetcode repository.
 
 FEATURES:
    Search Functionality: The user is available with a input box,where the problem Name or ID is entered to fetch solution.
